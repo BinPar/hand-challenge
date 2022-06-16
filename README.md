@@ -32,7 +32,7 @@ This language haves 7 instructions:
 
 ## Tests
 
-The hand shares with you two small programs and their ouputs:
+The hand shares with you two small programs and their outputs:
 
 ### This program display "Hello"
 
